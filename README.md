@@ -31,7 +31,6 @@ Publish the website in the given URL.
 
 ## DESIGN TOOL:
 Figma
-
 /* home page */
 
 position: relative;
@@ -445,7 +444,6 @@ left: 114px;
 top: 80px;
 
 background: url(WhatsApp Image 2023-11-06 at 11.28.jpg);
-
 ## OUTPUT:
 ![image](https://github.com/Boobeshkrishna/Figma/assets/141472052/21e1f5dc-0198-4b80-9318-e57bf7795423)
 
